@@ -1,5 +1,6 @@
 # Geo Location 
-<i>Let the world see your journey experiences!!</i> 
+<i>Let the world see your journey experiences!!</i><br/><br/>
+This app lets you share your journey experiences all across the world complete with descriptions, pictures and much more..........<hr/>
 
 ## In-App Screenshots
 
